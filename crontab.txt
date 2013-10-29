@@ -1,0 +1,1 @@
+0 7 * * 7 /FULL_PATH_TO/timeLeft.py
